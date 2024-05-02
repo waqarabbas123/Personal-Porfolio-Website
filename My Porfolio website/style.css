@@ -76,6 +76,15 @@
   font-size: 20px;
   margin-bottom: 20px;
 }
+
+.main .navbar ul li a {
+  text-decoration: none;
+  color: rgb(104, 104, 104);
+}
+.main .navbar ul li a:hover {
+  cursor: pointer;
+  color: #0fa08d;
+}
 .main .navbar ul li:hover {
   cursor: pointer;
   color: #0fa08d;
