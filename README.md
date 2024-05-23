@@ -1,2 +1,2 @@
-This is personal porfolio with just html and css.
+This is the personal portfolio website for the web developers
 
