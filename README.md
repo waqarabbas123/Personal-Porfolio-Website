@@ -1,2 +1,2 @@
-this is my personal portfolio website .
+this is the personal portfolio website for web developers.
 
