@@ -1,2 +1,2 @@
-this is the personal portfolio website for web developers.
-
+In this repository it have a simple porfolio website .
+using html and css only.
