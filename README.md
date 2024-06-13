@@ -1,3 +1,1 @@
-In this repository it have a simple porfolio website .
-using html and css only.
-this is most beautifull website.
+In this repository i can make a portfolio webiste using htmnl and css only .
